@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+
+python3 get_extra_mem_size.py $*
